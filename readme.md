@@ -22,7 +22,7 @@
 
 ### Screenshots
 
-[image]:/gitImages/1.png
+[image]:gitImages/1.png
 
 [image]:/gitImages/2.png
 
