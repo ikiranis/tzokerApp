@@ -24,14 +24,20 @@
 
 ![1](https://user-images.githubusercontent.com/50238022/159055573-594b32e4-7334-440a-b901-5febbe047c07.png)
 
-[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/2.png
+![2](https://user-images.githubusercontent.com/50238022/159055803-df3e7c96-e1d7-42b1-8851-cd9e71b897ea.png)
 
-[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/3.png
+![3](https://user-images.githubusercontent.com/50238022/159055827-7ac27829-7630-4d30-917a-d52d67680dc6.png)
 
-[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/4.png
+![4](https://user-images.githubusercontent.com/50238022/159055872-e1e5fed9-81ae-4bca-8f4e-3856c03e69f7.png)
 
-[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/5.png
+![5](https://user-images.githubusercontent.com/50238022/159055909-07286fb5-a6fb-4ad3-b7eb-ef0d309bfa55.png)
 
-[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/6.png
+![6](https://user-images.githubusercontent.com/50238022/159055929-7ec5fe09-4386-4f20-a93d-51038b177bcf.png)
 
-[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/7.png
+![7](https://user-images.githubusercontent.com/50238022/159055953-2aa6c75f-daed-4637-9425-51454c1f9c46.png)
+
+
+
+
+
+
