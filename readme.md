@@ -22,7 +22,7 @@
 
 ### Screenshots
 
-[image]:(https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/1.png)
+![1](https://user-images.githubusercontent.com/50238022/159055573-594b32e4-7334-440a-b901-5febbe047c07.png)
 
 [image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/2.png
 
