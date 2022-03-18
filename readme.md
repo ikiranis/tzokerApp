@@ -20,24 +20,36 @@
 
 Τεκμηρίωση για την δομή του JSON που επιστρέφεται, δίνεται με την μορφή Swagger αρχείου στην διεύθυνση https://api.opap.gr/numerics/v1.0/api-swagger.
 
+### Τεχνολογίες που χρησιμοποιήθηκαν για την εκτέλεση του έργου
+
+Η εφαρμογή υλοποιήθηκε σε Java και συγκεκριμένα χρησιμοποιήθηκε το JDK 1.8. Ενώ για βάση δεδομένων
+χρησιμοποιήθηκε η Apache Derby (έκδοση 10.11.1.2). Το GUI δημιουργήθηκε με Swing.
+
+Για την συνεργασία των μελών της ομάδας, στην συγγραφή του κώδικα, χρησιμοποιήθηκε το github και για IDE
+χρησιμοποιήθηκε το Netbeans IDE 8.2.
+
+Για τις διαδικασίες του Scrum χρησιμοποιήθηκαν διάφορα εργαλεία, όπως:
+
+- Planningpoker.com (για τον υπολογισμό του effort και της προτεραιοποίησης)
+- Trello (για διαχείριση του backlog)
+- Toggl (για καταγραφή του χρόνου που ξοδεύει το κάθε μέλος στα User Stories)
+- Discord (για επικοινωνία μεταξύ των μελών)
+- 
+Χρησιμοποιήθηκε επίσης το Figma για σχεδίαση των mockups του GUI και το Visual Paradigm για την σχεδίαση
+διαγραμμάτων, όπως και το ProjectLibre για σχεδίαση διαγράμματος Gantt
+
 ### Screenshots
 
-![1](https://user-images.githubusercontent.com/50238022/159055573-594b32e4-7334-440a-b901-5febbe047c07.png)
+![18-03--2022_19-47](https://user-images.githubusercontent.com/50238022/159056259-6d333d8a-4710-4160-bad7-c22fd2ec84aa.png)
 
-![2](https://user-images.githubusercontent.com/50238022/159055803-df3e7c96-e1d7-42b1-8851-cd9e71b897ea.png)
+![18-03--2022_19-48](https://user-images.githubusercontent.com/50238022/159056384-dd90e412-4ee1-4723-ba0c-ea5b90a02d19.png)
 
-![3](https://user-images.githubusercontent.com/50238022/159055827-7ac27829-7630-4d30-917a-d52d67680dc6.png)
+![18-03--2022_19-49](https://user-images.githubusercontent.com/50238022/159056487-85acfae0-4453-4730-858e-f1bc820563e8.png)
 
-![4](https://user-images.githubusercontent.com/50238022/159055872-e1e5fed9-81ae-4bca-8f4e-3856c03e69f7.png)
+![18-03--2022_19-49_1](https://user-images.githubusercontent.com/50238022/159056571-29534f97-4c90-4147-9f69-f259866ebd9f.png)
 
-![5](https://user-images.githubusercontent.com/50238022/159055909-07286fb5-a6fb-4ad3-b7eb-ef0d309bfa55.png)
+![18-03--2022_19-50](https://user-images.githubusercontent.com/50238022/159056775-17202254-b117-46a9-a216-a3b73898b948.png)
 
-![6](https://user-images.githubusercontent.com/50238022/159055929-7ec5fe09-4386-4f20-a93d-51038b177bcf.png)
+![18-03--2022_19-50_1](https://user-images.githubusercontent.com/50238022/159056791-035ff1ac-453c-4467-9e39-5286019760a2.png)
 
-![7](https://user-images.githubusercontent.com/50238022/159055953-2aa6c75f-daed-4637-9425-51454c1f9c46.png)
-
-
-
-
-
-
+![18-03--2022_19-51](https://user-images.githubusercontent.com/50238022/159056812-30dd0524-067e-4a42-99a1-036e26e0f70e.png)
