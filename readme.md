@@ -24,14 +24,14 @@
 
 [image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/1.png
 
-[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/2.png
+[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/2.png
 
-[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/3.png?raw=true
+[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/3.png
 
-[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/4.png?raw=true
+[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/4.png
 
-[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/5.png?raw=true
+[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/5.png
 
-[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/6.png?raw=true
+[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/6.png
 
-[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/7.png?raw=true
+[image]:https://raw.githubusercontent.com/ikiranis/tzokerApp/main/gitImages/7.png
