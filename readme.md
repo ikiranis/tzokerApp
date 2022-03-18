@@ -22,16 +22,16 @@
 
 ### Screenshots
 
-[image]:gitImages/1.png
+[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/1.png?raw=true
 
-[image]:/gitImages/2.png
+[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/2.png?raw=true
 
-[image]:/gitImages/3.png
+[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/3.png?raw=true
 
-[image]:/gitImages/4.png
+[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/4.png?raw=true
 
-[image]:/gitImages/5.png
+[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/5.png?raw=true
 
-[image]:/gitImages/6.png
+[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/6.png?raw=true
 
-[image]:/gitImages/7.png
+[image]:https://github.com/ikiranis/tzokerApp/blob/main/gitImages/7.png?raw=true
