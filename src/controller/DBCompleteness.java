@@ -83,7 +83,7 @@ public class DBCompleteness {
         
         double percentage = ((double) numberOfDrawsInDB / (double) numberOfDrawsInApi) * 100;
 
-        result = "Υπάχουν "
+        result = "Υπάρχουν "
                 + numberOfDrawsInDB
                 + " εγγραφές στην βάση, από τις "
                 + numberOfDrawsInApi
