@@ -1,6 +1,5 @@
 /build
-/dist
 /nbproject
-
-
+derby.log
+/db
 /statistics.pdf

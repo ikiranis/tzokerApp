@@ -7,10 +7,9 @@
     <class>model.Prize</class>
     <class>model.Game</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/tzoker"/>
-      <property name="javax.persistence.jdbc.user" value="tzoker"/>
-      <property name="javax.persistence.jdbc.driver" value="org.apache.derby.jdbc.ClientDriver"/>
-      <property name="javax.persistence.jdbc.password" value="tzoker"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:derby:db;create=true"/>
+      <property name="javax.persistence.jdbc.driver" value="org.apache.derby.jdbc.AutoloadedDriver"/>
+      <property name="javax.persistence.schema-generation.database.action" value="create"/>
     </properties>
   </persistence-unit>
 </persistence>
