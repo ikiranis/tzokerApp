@@ -50,6 +50,16 @@
 
 [tzoker.jar](https://github.com/ikiranis/tzokerApp/blob/main/dist/tzoker.jar)
 
+Η εκτέλεση του jar μπορεί να γίνει και με την παρακάτω εντολή (αν για κάποιον
+λόγο δεν τρέχει απευθείας  από τον file manager)
+
+```
+java -jar tzoker.jar 
+```
+
+Θα πρέπει φυσικά να έχετε εγκατεστημένη την [Java](https://www.java.com/en/download/manual.jsp) 
+στο PC σας.
+
 ### Screenshots
 
 ![18-03--2022_19-47](https://user-images.githubusercontent.com/50238022/159056259-6d333d8a-4710-4160-bad7-c22fd2ec84aa.png)
